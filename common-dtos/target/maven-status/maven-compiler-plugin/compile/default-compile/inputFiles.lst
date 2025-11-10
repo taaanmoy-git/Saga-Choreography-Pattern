@@ -1,8 +1,0 @@
-D:\Application workspace\SpringTool Suits\workspace-spring-tools-for-eclipse-4.32.0.RELEASE-saga-choreography\com.saga.choreography\common-dtos\src\main\java\com\common\dto\OrderRequestDto.java
-D:\Application workspace\SpringTool Suits\workspace-spring-tools-for-eclipse-4.32.0.RELEASE-saga-choreography\com.saga.choreography\common-dtos\src\main\java\com\common\dto\OrderResponseDto.java
-D:\Application workspace\SpringTool Suits\workspace-spring-tools-for-eclipse-4.32.0.RELEASE-saga-choreography\com.saga.choreography\common-dtos\src\main\java\com\common\dto\PaymentRequestDto.java
-D:\Application workspace\SpringTool Suits\workspace-spring-tools-for-eclipse-4.32.0.RELEASE-saga-choreography\com.saga.choreography\common-dtos\src\main\java\com\common\enums\OrderStatus.java
-D:\Application workspace\SpringTool Suits\workspace-spring-tools-for-eclipse-4.32.0.RELEASE-saga-choreography\com.saga.choreography\common-dtos\src\main\java\com\common\enums\PaymentStatus.java
-D:\Application workspace\SpringTool Suits\workspace-spring-tools-for-eclipse-4.32.0.RELEASE-saga-choreography\com.saga.choreography\common-dtos\src\main\java\com\common\event\Event.java
-D:\Application workspace\SpringTool Suits\workspace-spring-tools-for-eclipse-4.32.0.RELEASE-saga-choreography\com.saga.choreography\common-dtos\src\main\java\com\common\event\OrderEvent.java
-D:\Application workspace\SpringTool Suits\workspace-spring-tools-for-eclipse-4.32.0.RELEASE-saga-choreography\com.saga.choreography\common-dtos\src\main\java\com\common\event\PaymentEvent.java

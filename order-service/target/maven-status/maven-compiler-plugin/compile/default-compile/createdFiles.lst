@@ -1,6 +1,0 @@
-com\order\service\OrderServiceApplication.class
-com\order\service\controller\OrderController.class
-com\order\service\service\OrderService.class
-com\order\service\service\OrderStatusPublisher.class
-com\order\service\entity\PurchaseOrder.class
-com\order\service\repository\OrderRepository.class
